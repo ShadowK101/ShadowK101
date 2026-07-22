@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>ShadowK101</h1>
-  <h3>Principal Systems & Software Engineer @ Asteria Interactive™</h3>
+  <h3>Principal Systems & Software Engineer At Asteria Interactive™</h3>
 
   <a href="https://github.com/ShadowK101">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&height=50&lines=Principal+Systems+%26+Native+Architect;Cross-Platform+Desktop+Applications;Modern+Web+%26+WebAssembly+Architectures;Building+Custom+OS+Kernels+in+Rust+%26+C;High-Performance+x86_64+Assembly" alt="Typing Animation" />
@@ -46,13 +46,13 @@ Principal Systems and Software Engineer with end-to-end architectural experience
 
 ## Core Technical Domains
 
-> ### 🖥️ Native Desktop & UI Engineering
+> ###  Native Desktop & UI Engineering
 > Architectural design and production implementation of high-performance GUI desktop applications utilizing Slint UI, Rust, modern C++ (C++20), and native OS bindings to ensure immediate startup times and minimal resource footprints.
 
-> ### 🌐 Web Technologies & Distributed Systems
+> ###  Web Technologies & Distributed Systems
 > Engineering web applications and modular browser runtimes using TypeScript, JavaScript, and WebAssembly (WASM). Designing backend services, data pipelines, and tooling on JVM platforms utilizing Kotlin and Java.
 
-> ### ⚙️ Low-Level & Kernel Engineering
+> ###  Low-Level & Kernel Engineering
 > Bare-metal software construction including custom x86_64 microkernel development, virtual memory pagination, CPU task scheduling, hardware driver integration, and raw register manipulations.
 
 ---
