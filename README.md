@@ -1,12 +1,13 @@
 <div align="center">
 
+  # Hi, I'm Keegan 👋
+  ### Principal Systems Engineer @ Asteria Interactive™
+
   <a href="https://github.com/ShadowK101">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&height=50&lines=Principal+Systems+%26+Native+Architect;Writing+Raw+Silicon+Architectures...;Building+Custom+OS+Kernels+in+Rust+%26+C;Low-Level+x86_64+Assembly;Crafting+Native+UI+with+Slint" alt="Typing Animation" />
   </a>
 
-  <p align="center">
-    <b>Principal Systems Engineer @ Asteria Interactive™</b>
-  </p>
+  <br/>
 
   <p align="center">
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
@@ -29,13 +30,10 @@
 
 ---
 
-###  Executive Overview
+### ⚡ Executive Overview
 
 Focused on high-performance native software development, operating system kernels, driver architectures, and low-level systems tooling. Eliminating unnecessary runtime abstractions to build deterministic software straight on the metal.
 
-```text
-┌─────────────────────────────────────────────────────────────────────────┐
-│ [Architecture]  Rust • C++20 • C11 • x86_64 Assembly • Slint UI         │
-│ [Environments]  JetBrains RustRover • CLion • CMake • MSYS2 (UCRT64)     │
-│ [Specialties]   Kernel Engineering • Memory Safety • Hardware Drivers   │
-└─────────────────────────────────────────────────────────────────────────┘
+| Core Architecture | Environments | Key Specialties |
+| :--- | :--- | :--- |
+| **Languages:** Rust, C++20, C11<br>**Low-Level:** x86_64 Assembly<br>**Frontend:** Slint UI | JetBrains RustRover<br>CLion, CMake<br>MSYS2 (UCRT64) | Kernel Engineering<br>Memory Safety<br>Hardware Drivers |
