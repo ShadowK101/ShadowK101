@@ -1,10 +1,10 @@
 <div align="center">
 
   <h1>ShadowK101</h1>
-  <h3>Principal Systems Engineer At Asteria Interactive™</h3>
+  <h3>Principal Systems & Software Engineer @ Asteria Interactive™</h3>
 
   <a href="https://github.com/ShadowK101">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&height=50&lines=Principal+Systems+%26+Native+Architect;Writing+Raw+Silicon+Architectures...;Building+Custom+OS+Kernels+in+Rust+%26+C;Native+Desktop+Apps+%26+WebAssembly;Low-Level+x86_64+Assembly" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&height=50&lines=Principal+Systems+%26+Native+Architect;Cross-Platform+Desktop+Applications;Modern+Web+%26+WebAssembly+Architectures;Building+Custom+OS+Kernels+in+Rust+%26+C;High-Performance+x86_64+Assembly" alt="Typing Animation" />
   </a>
 
   <br/><br/>
@@ -13,8 +13,8 @@
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
     <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B20-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
     <a href="https://en.cppreference.com/w/c"><img src="https://img.shields.io/badge/C11-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=black" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/x86__64_Assembly-000000?style=for-the-badge&logoColor=white" /></a>
-    <a href="https://slint.dev/"><img src="https://img.shields.io/badge/Slint_UI-23272A?style=for-the-badge&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/x86__64_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></a>
+    <a href="https://slint.dev/"><img src="https://img.shields.io/badge/Slint_UI-23272A?style=for-the-badge&logo=slint&logoColor=00D2FF" /></a>
     <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" /></a>
   </p>
 
@@ -40,40 +40,43 @@
 
 ## Executive Overview
 
-Principal Systems Engineer specializing in low-level bare-metal environments, operating system kernel design, hardware driver implementation, and cross-platform native desktop application engineering. Core technical focus centers on eliminating unnecessary runtime overhead, designing deterministic zero-cost abstractions, and deploying high-performance software systems across native silicon and target environments via WebAssembly.
+Principal Systems and Software Engineer with end-to-end architectural experience spanning bare-metal operating systems, high-performance native desktop applications, enterprise JVM services, and modern web platforms. Specializing in bridging low-level hardware performance with scalable user-facing software through deterministic zero-cost abstractions, WebAssembly modules, and lightweight UI frameworks.
 
 ---
 
-## Technical Competencies
+## Core Technical Domains
 
-> ### Low-Level & Kernel Engineering
-> * **Operating Systems:** Custom x86_64 microkernel development, virtual memory pagination, CPU interrupt scheduling, and bare-metal driver interfaces.
-> * **Native Desktop Architectures:** High-performance desktop application development utilizing Slint UI, Rust, and modern C++ FFI layers.
-> * **Managed Systems & Web Runtimes:** Multi-threaded backend services, JVM tooling (Kotlin, Java), and web-native compilation targets leveraging TypeScript, JavaScript, and WebAssembly (WASM).
+> ### 🖥️ Native Desktop & UI Engineering
+> Architectural design and production implementation of high-performance GUI desktop applications utilizing Slint UI, Rust, modern C++ (C++20), and native OS bindings to ensure immediate startup times and minimal resource footprints.
+
+> ### 🌐 Web Technologies & Distributed Systems
+> Engineering web applications and modular browser runtimes using TypeScript, JavaScript, and WebAssembly (WASM). Designing backend services, data pipelines, and tooling on JVM platforms utilizing Kotlin and Java.
+
+> ### ⚙️ Low-Level & Kernel Engineering
+> Bare-metal software construction including custom x86_64 microkernel development, virtual memory pagination, CPU task scheduling, hardware driver integration, and raw register manipulations.
 
 ---
 
 ## Technical Domain Matrix
 
-| Category | Systems & Technologies |
+| Layer | Primary Technologies & Frameworks |
 | :--- | :--- |
-| **Low-Level Languages** | Rust, Modern C++ (C++20), C11, x86_64 Assembly |
-| **Managed & Scripting** | Kotlin, Java, TypeScript, JavaScript |
-| **Runtimes & Compilation** | WebAssembly (WASM), JVM, LLVM |
-| **Desktop & GUI Frameworks** | Slint Native UI Engine |
-| **Development Toolchains** | JetBrains RustRover, CLion, IntelliJ IDEA, CMake, Cargo, MSYS2 (UCRT64) |
+| **Desktop & Native UI** | Slint UI Framework, Rust Native Bindings, Modern C++ FFI |
+| **Web & Managed Runtimes** | TypeScript, JavaScript, WebAssembly (WASM), Kotlin, Java (JVM) |
+| **Systems & Hardware** | Rust, C++20 Standard, C11 Standard, x86_64 Assembly |
+| **Development Ecosystem** | JetBrains RustRover, CLion, IntelliJ IDEA, CMake, Cargo, Gradle, MSYS2 (UCRT64) |
 
 ---
 
 ## Core Active Directives
 
-* **Microkernel Architecture:** Engineering a lightweight, bare-metal operating system kernel written in safe Rust targeting x86_64 processors.
-* **Native Desktop Tooling:** Constructing high-throughput, resource-efficient desktop applications leveraging Slint UI and native system bindings.
-* **Cross-Platform Modules:** Compiling low-level C++/Rust algorithms to WebAssembly for seamless execution across web and native targets.
+* **Cross-Platform Desktop Suite:** Architecting desktop applications combining Slint UI with Rust backends for real-time data visualization and zero-latency input processing.
+* **WebAssembly Modules:** Compiling low-level Rust and C++ algorithm engines into optimized WebAssembly binaries for high-speed browser execution.
+* **Bare-Metal Operating System:** Engineering a lightweight microkernel in safe Rust targeting the x86_64 architecture with custom driver interfaces.
 
 ---
 
-## System Architecture & Execution Hierarchy
+## System Architecture & Layer Hierarchy
 
 <details>
   <summary><b>Execution Stack & Component Boundaries</b></summary>
@@ -81,13 +84,13 @@ Principal Systems Engineer specializing in low-level bare-metal environments, op
 
   ```text
   ┌────────────────────────────────────────────────────────────────────────┐
-  │ Presentation Layer: Slint Native UI / Desktop Apps / TypeScript Target │
+  │ User Layer: Slint Desktop GUIs / Web Platform (TypeScript & JS)       │
   ├────────────────────────────────────────────────────────────────────────┤
-  │ Business Logic: Rust, C++20, Kotlin (JVM), WebAssembly (WASM) Runtime   │
+  │ Application Core: Rust, Modern C++20, WebAssembly (WASM), Kotlin (JVM)  │
   ├────────────────────────────────────────────────────────────────────────┤
-  │ Low-Level System Abstractions: Custom Allocators, Memory-Mapped I/O    │
+  │ System Abstraction: Custom Memory Allocators, FFI Layers, Native APIs  │
   ├────────────────────────────────────────────────────────────────────────┤
-  │ Kernel Infrastructure: Paging, Interrupt Drivers, Task Scheduler       │
+  │ Kernel Infrastructure: Virtual Memory, Task Scheduler, Hardware Drivers│
   ├────────────────────────────────────────────────────────────────────────┤
-  │ Hardware Interface: x86_64 Register Sets & Silicon Execution Units     │
+  │ Hardware Execution: x86_64 Registers, Instruction Sets, Direct Silicon │
   └────────────────────────────────────────────────────────────────────────┘
