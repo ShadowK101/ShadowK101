@@ -42,7 +42,9 @@
 
 <div align="center">
 
-<p>[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient)</p>
+  <p align="center">
+    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient"
+    </p>
 
 </div>
 
