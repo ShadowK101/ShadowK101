@@ -38,6 +38,12 @@
 
 ---
 
+## Most Used Languages
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient)
+
+---
+
 ## Executive Overview
 
 Principal Systems and Software Engineer with end-to-end architectural experience spanning bare-metal operating systems, high-performance native desktop applications, enterprise JVM services, and modern web platforms. Specializing in bridging low-level hardware performance with scalable user-facing software through deterministic zero-cost abstractions, WebAssembly modules, and lightweight UI frameworks.
