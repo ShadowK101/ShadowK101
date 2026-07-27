@@ -38,7 +38,7 @@
 
 ---
 
-## My Github Stats:
+## Github Stats:
 
 <div align="center">
 
