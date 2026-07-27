@@ -38,9 +38,13 @@
 
 ---
 
-## Most Used Languages
+## My Github Stats:
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient)
+<div align="center">
+
+<p>[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient)</p>
+
+</div>
 
 ---
 
