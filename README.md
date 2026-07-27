@@ -43,7 +43,7 @@
 <div align="center">
 
   <p align="center">
-    <a href="https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient"
+    <a href="https://github-stats-extended.vercel.app"><img src="https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=4&theme=ambient_gradient" /></a>
     </p>
 
 </div>
