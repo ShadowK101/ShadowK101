@@ -49,7 +49,7 @@
 </br>
 
 <p align="center">
-   <a href="https://github-stats-extended.vercel.app"><img src="[https://github-stats-extended.vercel.app/api?username=ShadowK101&rank_icon=percentile&show_icons=true&theme=dark](https://github-stats-extended.vercel.app/api?username=ShadowK101&rank_icon=percentile&theme=vue-dark)" /></a>
+   <a href="https://github-stats-extended.vercel.app"><img src="https://github-stats-extended.vercel.app/api?username=ShadowK101&rank_icon=percentile&theme=vue-dark" /></a>
 </p>
 
 </div>
