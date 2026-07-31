@@ -49,7 +49,7 @@
 
 ---
 
-## ⚡ Live GitHub Activity Metrics
+##  Live GitHub Activity Metrics
 
 <div align="center">
 
@@ -71,7 +71,7 @@
 
 ---
 
-## 🚀 Executive Overview
+##  Executive Overview
 
 Principal Systems and Software Engineer with end-to-end architectural experience spanning cross-platform desktop applications, multiplatform state layers, enterprise Node.js microservices, and modern web platforms. 
 
@@ -79,20 +79,20 @@ Specializing in **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)
 
 ---
 
-## 🎯 Core Technical Domains
+##  Core Technical Domains
 
-> ### 📱 Cross-Platform & Multiplatform UI Engineering
+> ###  Cross-Platform & Multiplatform UI Engineering
 > Architectural design and production implementation of native desktop and web applications utilizing **Compose Multiplatform (CMP)**, **Kotlin Multiplatform (KMP)**, and reactive state flow pipelines inside **IntelliJ IDEA**.
 
-> ### 🌐 Web Technologies & Asynchronous Services
+> ###  Web Technologies & Asynchronous Services
 > Engineering scalable web applications, REST/GraphQL APIs, and high-throughput microservices using **Node.js**, **TypeScript**, and **JavaScript** within **WebStorm**. Delivering robust backend data pipelines and responsive web frontends.
 
-> ### ⚙️ Core Application Logic & Managed Runtimes
+> ###  Core Application Logic & Managed Runtimes
 > Shared business logic encapsulation, Coroutines state dispatchers, dependency injection, and data models compiled across JVM, JS, and Native execution targets via **Gradle** and **NPM**.
 
 ---
 
-## 📊 Technical Domain Matrix
+##  Technical Domain Matrix
 
 | Domain Layer | Primary Technologies & Tooling | Focus Areas |
 | :--- | :--- | :--- |
@@ -103,15 +103,15 @@ Specializing in **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)
 
 ---
 
-## 💡 Core Active Directives
+##  Core Active Directives
 
-* 🌌 **Multiplatform Application Suite:** Architecting cross-platform desktop and web applications combining Compose Multiplatform UI with shared KMP core modules (`src/desktop`).
-* ⚡ **Enterprise Node.js Microservices:** Building high-speed asynchronous backend APIs and web services in TypeScript and JavaScript (`src/web`).
-* 🛠️ **Monorepo System Tooling:** Streamlining Gradle build scripts, NPM tooling, and deployment automation across IntelliJ IDEA and WebStorm (`src/tools`).
+*  **Multiplatform Application Suite:** Architecting cross-platform desktop and web applications combining Compose Multiplatform UI with shared KMP core modules (`src/desktop`).
+*  **Enterprise Node.js Microservices:** Building high-speed asynchronous backend APIs and web services in TypeScript and JavaScript (`src/web`).
+*  **Monorepo System Tooling:** Streamlining Gradle build scripts, NPM tooling, and deployment automation across IntelliJ IDEA and WebStorm (`src/tools`).
 
 ---
 
-## 🏗️ System Architecture & Monorepo Layer Hierarchy
+##  System Architecture & Monorepo Layer Hierarchy
 
 <details>
   <summary><b>Click to expand Execution Stack & Component Boundaries</b></summary>
