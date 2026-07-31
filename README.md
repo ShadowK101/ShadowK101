@@ -4,10 +4,19 @@
   <h3>Principal Systems & Software Engineer At Asteria Interactive™</h3>
 
   <a href="https://github.com/ShadowK101">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=650&height=50&lines=Principal+Systems+%26+Native+Architect;Cross-Platform+Desktop+Applications;Modern+Web+%26+WebAssembly+Architectures;Building+Custom+OS+Kernels+in+Rust+%26+C;High-Performance+x86_64+Assembly" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=680&height=50&lines=Principal+Systems+%26+Software+Architect;Kotlin+Multiplatform+%26+Compose+UI;Enterprise+Node.js+%26+TypeScript+Services;Cross-Platform+Desktop+%26+Web+Applications;IntelliJ+IDEA+%26+WebStorm+Ecosystems" alt="Typing Animation" />
   </a>
 
   <br/><br/>
+
+  <p align="center">
+    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin_KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+    <a href="https://www.jetbrains.com/lp/compose-multiplatform/"><img src="https://img.shields.io/badge/Compose_UI-000000?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" /></a>
+    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  </p>
 
   <p align="center">
     <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
@@ -16,13 +25,6 @@
     <a href="#"><img src="https://img.shields.io/badge/x86__64_Assembly-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></a>
     <a href="https://slint.dev/"><img src="https://img.shields.io/badge/Slint_UI-23272A?style=for-the-badge&logo=slint&logoColor=00D2FF" /></a>
     <a href="https://webassembly.org/"><img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=webassembly&logoColor=white" /></a>
-  </p>
-
-  <p align="center">
-    <a href="https://kotlinlang.org/"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
-    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   </p>
 
   <p align="center">
@@ -58,20 +60,20 @@
 
 ## Executive Overview
 
-Principal Systems and Software Engineer with end-to-end architectural experience spanning bare-metal operating systems, high-performance native desktop applications, enterprise JVM services, and modern web platforms. Specializing in bridging low-level hardware performance with scalable user-facing software through deterministic zero-cost abstractions, WebAssembly modules, and lightweight UI frameworks.
+Principal Systems and Software Engineer with end-to-end architectural experience spanning cross-platform desktop applications, multiplatform state layers, enterprise Node.js microservices, and modern web platforms. Specializing in Kotlin Multiplatform (KMP) and Compose Multiplatform (CMP) for shared business logic and reactive UIs, paired with high-performance Node.js and TypeScript backend infrastructure.
 
 ---
 
 ## Core Technical Domains
 
-> ###  Native Desktop & UI Engineering
-> Architectural design and production implementation of high-performance GUI desktop applications utilizing Slint UI, Rust, modern C++ (C++20), and native OS bindings to ensure immediate startup times and minimal resource footprints.
+> ### Cross-Platform & Multiplatform UI Engineering
+> Architectural design and production implementation of desktop and web applications utilizing Compose Multiplatform (CMP), Kotlin Multiplatform (KMP), and reactive state flow pipelines inside JetBrains IntelliJ IDEA.
 
-> ###  Web Technologies & Distributed Systems
-> Engineering web applications and modular browser runtimes using TypeScript, JavaScript, and WebAssembly (WASM). Designing backend services, data pipelines, and tooling on JVM platforms utilizing Kotlin and Java.
+> ### Web Technologies & Backend Services
+> Engineering scalable web applications, REST/GraphQL APIs, and asynchronous microservices using Node.js, TypeScript, JavaScript, and WebStorm. Delivering high-throughput backend services and web frontends.
 
-> ###  Low-Level & Kernel Engineering
-> Bare-metal software construction including custom x86_64 microkernel development, virtual memory pagination, CPU task scheduling, hardware driver integration, and raw register manipulations.
+> ### Core Application Logic & Managed Runtimes
+> Shared business logic encapsulation, coroutines, dependency injection, and data models compiled across JVM, JS, and Native execution targets.
 
 ---
 
@@ -79,18 +81,18 @@ Principal Systems and Software Engineer with end-to-end architectural experience
 
 | Layer | Primary Technologies & Frameworks |
 | :--- | :--- |
-| **Desktop & Native UI** | Slint UI Framework, Rust Native Bindings, Modern C++ FFI |
-| **Web & Managed Runtimes** | TypeScript, JavaScript, WebAssembly (WASM), Kotlin, Java (JVM) |
-| **Systems & Hardware** | Rust, C++20 Standard, C11 Standard, x86_64 Assembly |
-| **Development Ecosystem** | JetBrains RustRover, CLion, IntelliJ IDEA, CMake, Cargo, Gradle, MSYS2 (UCRT64) |
+| **Cross-Platform UI** | Compose Multiplatform (CMP), Kotlin Multiplatform (KMP Desktop/Web) |
+| **Web & Backend Services** | Node.js, TypeScript, JavaScript, Express, REST APIs, WebSockets |
+| **Core Runtimes & Logic** | Kotlin (KMP Core), Java (JVM), Kotlin Coroutines, StateFlow / SharedFlow |
+| **Development Ecosystem** | JetBrains IntelliJ IDEA, WebStorm, Gradle, npm / pnpm, Git / GitHub Actions |
 
 ---
 
 ## Core Active Directives
 
-* **Cross-Platform Desktop Suite:** Architecting desktop applications combining Slint UI with Rust backends for real-time data visualization and zero-latency input processing.
-* **WebAssembly Modules:** Compiling low-level Rust and C++ algorithm engines into optimized WebAssembly binaries for high-speed browser execution.
-* **Bare-Metal Operating System:** Engineering a lightweight microkernel in safe Rust targeting the x86_64 architecture with custom driver interfaces.
+* **Multiplatform Application Suite:** Architecting desktop and web applications combining Compose Multiplatform UI with shared KMP core logic modules for maximum code reuse.
+* **Enterprise Node.js Microservices:** Building high-throughput asynchronous backend APIs and services in TypeScript and JavaScript for web and client integration.
+* **Tooling & IDE Optimization:** Streamlining Gradle and NPM build configurations across IntelliJ IDEA and WebStorm for enterprise monorepo management.
 
 ---
 
@@ -102,13 +104,13 @@ Principal Systems and Software Engineer with end-to-end architectural experience
 
   ```text
   ┌────────────────────────────────────────────────────────────────────────┐
-  │ User Layer: Slint Desktop GUIs / Web Platform (TypeScript & JS)       │
+  │ Presentation Layer: Compose Multiplatform (CMP Desktop & Web UI)      │
   ├────────────────────────────────────────────────────────────────────────┤
-  │ Application Core: Rust, Modern C++20, WebAssembly (WASM), Kotlin (JVM)  │
+  │ Business Core: Kotlin Multiplatform (KMP Shared Logic, StateFlow)     │
   ├────────────────────────────────────────────────────────────────────────┤
-  │ System Abstraction: Custom Memory Allocators, FFI Layers, Native APIs  │
+  │ Enterprise Services: Node.js, TypeScript & JavaScript Microservices   │
   ├────────────────────────────────────────────────────────────────────────┤
-  │ Kernel Infrastructure: Virtual Memory, Task Scheduler, Hardware Drivers│
+  │ Managed Runtimes: JVM / V8 Engine / Node.js Asynchronous Event Loop    │
   ├────────────────────────────────────────────────────────────────────────┤
-  │ Hardware Execution: x86_64 Registers, Instruction Sets, Direct Silicon │
+  │ Platform Infrastructure: Windows, macOS, Linux & Web Browsers          │
   └────────────────────────────────────────────────────────────────────────┘
