@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,clion,rover,cmake,git,github,githubactions&theme=dark&perline=6" alt="Animated Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,clion,cmake,git,github,githubactions&theme=dark&perline=6" alt="Animated Tech Stack" />
     </a>
   </p>
 
@@ -23,7 +23,7 @@
     <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
     <a href="https://en.wikipedia.org/wiki/X86-64"><img src="https://img.shields.io/badge/x86__64_Assembly-4D4D4D?style=for-the-badge&logo=amd&logoColor=white" alt="Assembly" /></a>
     <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" /></a>
-    <a href="https://llvm.org/"><img src="https://img.shields.io/badge/LLVM_Clang-222222?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM" /></a>
+    <a href="https://llvm.org/"><img src="https://img.shields.io/badge/LLVM_Clang-222222?style=for-the-badge" alt="LLVM" /></a>
   </p>
 
   <p align="center">
@@ -45,11 +45,19 @@
     </a>
   </p>
 
+  <p align="center">
+    <a href="#-executive-overview">Overview</a> •
+    <a href="#%EF%B8%8F-core-technical-domains">Core Domains</a> •
+    <a href="#-technical-domain-matrix">Domain Matrix</a> •
+    <a href="#%EF%B8%8F-system-architecture--monorepo-layer-hierarchy">Architecture</a> •
+    <a href="#-live-github-activity-metrics">Live Stats</a>
+  </p>
+
 </div>
 
 ---
 
-##  Live GitHub Activity Metrics
+## 📊 Live GitHub Activity Metrics
 
 <div align="center">
 
@@ -71,7 +79,7 @@
 
 ---
 
-##  Executive Overview
+## 🧾 Executive Overview
 
 Principal Systems and Software Engineer with end-to-end architectural experience spanning hardware-accelerated desktop rendering, low-level OS integrations, high-performance network services, and bare-metal execution environments. 
 
@@ -79,7 +87,7 @@ Specializing in **Rust** and **C++** for memory-safe core processing and native 
 
 ---
 
-##  Core Technical Domains
+## 🛠️ Core Technical Domains
 
 > ###  Native Desktop & Hardware-Accelerated UI
 > Architectural design and production implementation of cross-platform native applications utilizing **C++**, **Rust**, and direct graphics API integrations inside **CLion**.
@@ -92,7 +100,7 @@ Specializing in **Rust** and **C++** for memory-safe core processing and native 
 
 ---
 
-##  Technical Domain Matrix
+## 📐 Technical Domain Matrix
 
 | Domain Layer | Primary Technologies & Tooling | Focus Areas |
 | :--- | :--- | :--- |
@@ -103,7 +111,7 @@ Specializing in **Rust** and **C++** for memory-safe core processing and native 
 
 ---
 
-## Core Active Directives
+## 🎯 Core Active Directives
 
 * **Native Application Suite:** Architecting cross-platform desktop applications combining hardware-accelerated C++ UI with shared Rust core modules (`src/desktop`).
 * **Enterprise Systems Architecture:** Building highly concurrent, memory-safe backend APIs and OS-level routines in Rust and C (`src/systems`).
@@ -111,7 +119,7 @@ Specializing in **Rust** and **C++** for memory-safe core processing and native 
 
 ---
 
-##  System Architecture & Monorepo Layer Hierarchy
+## 🏗️ System Architecture & Monorepo Layer Hierarchy
 
 <details>
   <summary><b>Click to expand Execution Stack & Component Boundaries</b></summary>
@@ -135,3 +143,12 @@ Specializing in **Rust** and **C++** for memory-safe core processing and native 
   ├──────────────────────────────────────────────────────────────────────────────┤
   │ Target Platforms: Windows, macOS, & Linux (x86_64 / ARM64)                   │
   └──────────────────────────────────────────────────────────────────────────────┘
+  ```
+
+</details>
+
+---
+
+<div align="center">
+  <sub>Building at Asteria Interactive™ · Rust, C/C++, and bare-metal systems.</sub>
+</div>
