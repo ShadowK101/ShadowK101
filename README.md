@@ -4,33 +4,33 @@
   <h3>Principal Systems & Software Engineer at Asteria Interactive™</h3>
 
   <a href="https://github.com/ShadowK101">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=720&height=50&lines=%F0%9F%8C%8C+Principal+Systems+%26+Software+Architect;Kotlin+Multiplatform+(KMP)+%26+Compose+UI;Enterprise+Node.js+%26+TypeScript+Services;Cross-Platform+Desktop+(CMP)+%26+Web+Apps;IntelliJ+IDEA+%26+WebStorm+Ecosystems" alt="ShadowK101 Header Animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D2FF&center=true&vcenter=true&width=720&height=50&lines=%F0%9F%8C%8C+Principal+Systems+%26+Low-Level+Architect;High-Performance+Rust+%26+C%2B%2B+Engineering;Bare-Metal+C+%26+x86_64+Assembly;Hardware-Accelerated+Native+Desktop+Apps;CLion+%26+RustRover+Native+Ecosystems" alt="ShadowK101 Header Animation" />
   </a>
 
   <br/><br/>
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=kotlin,ts,js,nodejs,java,idea,webstorm,gradle,npm,git,github,githubactions&theme=dark&perline=6" alt="Animated Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,clion,idea,cmake,git,github,githubactions&theme=dark&perline=6" alt="Animated Tech Stack" />
     </a>
   </p>
 
   <br/>
 
   <p align="center">
-    <a href="https://kotlinlang.org/docs/multiplatform.html"><img src="https://img.shields.io/badge/Kotlin_KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin KMP" /></a>
-    <a href="https://www.jetbrains.com/lp/compose-multiplatform/"><img src="https://img.shields.io/badge/Compose_UI-000000?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4" alt="Compose UI" /></a>
-    <a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
-    <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /></a>
-    <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /></a>
+    <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+    <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" /></a>
+    <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
+    <a href="https://en.wikipedia.org/wiki/X86-64"><img src="https://img.shields.io/badge/x86__64_Assembly-4D4D4D?style=for-the-badge&logo=amd&logoColor=white" alt="Assembly" /></a>
+    <a href="https://cmake.org/"><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" /></a>
+    <a href="https://llvm.org/"><img src="https://img.shields.io/badge/LLVM_Clang-222222?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM" /></a>
   </p>
 
   <p align="center">
-    <a href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" /></a>
-    <a href="https://www.jetbrains.com/webstorm/"><img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm" /></a>
-    <a href="https://gradle.org/"><img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" /></a>
-    <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
+    <a href="https://www.jetbrains.com/rust/"><img src="https://img.shields.io/badge/RustRover-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="RustRover" /></a>
+    <a href="https://www.jetbrains.com/clion/"><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="CLion" /></a>
+    <a href="https://doc.rust-lang.org/cargo/"><img src="https://img.shields.io/badge/Cargo-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Cargo" /></a>
+    <a href="https://www.kernel.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /></a>
   </p>
 
   <p align="center">
@@ -73,22 +73,22 @@
 
 ##  Executive Overview
 
-Principal Systems and Software Engineer with end-to-end architectural experience spanning cross-platform desktop applications, multiplatform state layers, enterprise Node.js microservices, and modern web platforms. 
+Principal Systems and Software Engineer with end-to-end architectural experience spanning hardware-accelerated desktop rendering, low-level OS integrations, high-performance network services, and bare-metal execution environments. 
 
-Specializing in **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)** for shared business logic and reactive UI rendering across Desktop and Web, paired with high-throughput **Node.js** and **TypeScript** backend infrastructure managed through **IntelliJ IDEA** and **WebStorm**.
+Specializing in **Rust** and **C++** for memory-safe core processing and native UI, paired with uncompromising **C** and **x86_64 Assembly** for maximum throughput systems infrastructure. All workspaces are heavily optimized and managed through elite **CLion** and **RustRover** IDE configurations.
 
 ---
 
 ##  Core Technical Domains
 
-> ###  Cross-Platform & Multiplatform UI Engineering
-> Architectural design and production implementation of native desktop and web applications utilizing **Compose Multiplatform (CMP)**, **Kotlin Multiplatform (KMP)**, and reactive state flow pipelines inside **IntelliJ IDEA**.
+> ###  Native Desktop & Hardware-Accelerated UI
+> Architectural design and production implementation of cross-platform native applications utilizing **C++**, **Rust**, and direct graphics API integrations inside **CLion**.
 
-> ###  Web Technologies & Asynchronous Services
-> Engineering scalable web applications, REST/GraphQL APIs, and high-throughput microservices using **Node.js**, **TypeScript**, and **JavaScript** within **WebStorm**. Delivering robust backend data pipelines and responsive web frontends.
+> ###  Low-Level Systems & OS Integration
+> Engineering scalable bare-metal processes, kernel-level drivers, and high-throughput microservices using **C**, **x86_64 Assembly**, and **Rust** within **RustRover**. Delivering robust, zero-overhead backend data pipelines.
 
-> ###  Core Application Logic & Managed Runtimes
-> Shared business logic encapsulation, Coroutines state dispatchers, dependency injection, and data models compiled across JVM, JS, and Native execution targets via **Gradle** and **NPM**.
+> ###  Memory Management & Bare-Metal Execution
+> Strict manual memory management, Rust lifetime enforcing, SIMD instruction optimizations, and highly concurrent execution targets compiled via **Cargo**, **CMake**, and **LLVM**.
 
 ---
 
@@ -96,18 +96,18 @@ Specializing in **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)
 
 | Domain Layer | Primary Technologies & Tooling | Focus Areas |
 | :--- | :--- | :--- |
-| **Desktop & Native UI (`src/desktop`)** | Compose Multiplatform (CMP), KMP Desktop | Reactive UI, Desktop Packaging, Coroutine StateFlow |
-| **Web & Microservices (`src/web`)** | Node.js, TypeScript, JavaScript, Express, REST | Asynchronous APIs, Microservices, Web Apps |
-| **Tooling & Automation (`src/tools`)** | Gradle, NPM / PNPM, GitHub Actions, CI/CD | Monorepo Automation, Build Logic, Package Publishing |
-| **Development Environments** | JetBrains IntelliJ IDEA, WebStorm, Git / LFS | IDE Workflows, Hot-Reloading, Strict Type Linting |
+| **Desktop & Native UI (`src/desktop`)** | C++, Rust, Native GUI Frameworks | Hardware Acceleration, GUI Pipelines, Zero-Overhead Rendering |
+| **OS-Level & Backend (`src/systems`)** | Rust, C, x86_64 Assembly, Threads | Concurrency, Memory Safety, Systems Microservices |
+| **Tooling & Automation (`src/tools`)** | CMake, Cargo, Bash, GitHub Actions | Monorepo Automation, Native Linkers, CI/CD Pipelines |
+| **Development Environments** | JetBrains CLion, RustRover, Git LFS | IDE Workflows, Native Debugging (GDB/LLDB), Linter Precision |
 
 ---
 
-##  Core Active Directives
+## Core Active Directives
 
-*  **Multiplatform Application Suite:** Architecting cross-platform desktop and web applications combining Compose Multiplatform UI with shared KMP core modules (`src/desktop`).
-*  **Enterprise Node.js Microservices:** Building high-speed asynchronous backend APIs and web services in TypeScript and JavaScript (`src/web`).
-*  **Monorepo System Tooling:** Streamlining Gradle build scripts, NPM tooling, and deployment automation across IntelliJ IDEA and WebStorm (`src/tools`).
+* **Native Application Suite:** Architecting cross-platform desktop applications combining hardware-accelerated C++ UI with shared Rust core modules (`src/desktop`).
+* **Enterprise Systems Architecture:** Building highly concurrent, memory-safe backend APIs and OS-level routines in Rust and C (`src/systems`).
+* **Monorepo System Tooling:** Streamlining CMake build scripts, Cargo workspace topologies, and CI/CD native binary deployment across CLion and RustRover (`src/tools`).
 
 ---
 
@@ -119,19 +119,19 @@ Specializing in **Kotlin Multiplatform (KMP)** and **Compose Multiplatform (CMP)
 
   ```text
   ┌──────────────────────────────────────────────────────────────────────────────┐
-  │ Presentation Layer: Compose Multiplatform (CMP Desktop & Web UI)             │
+  │ Presentation Layer: Hardware-Accelerated Native UI (C++ / Rust)              │
   │ Path: src/desktop                                                            │
   ├──────────────────────────────────────────────────────────────────────────────┤
-  │ Business Core: Kotlin Multiplatform (KMP Shared Logic, StateFlow)            │
-  │ Path: src/desktop/shared                                                     │
+  │ Business Core: Cross-Platform Systems Logic (Memory-Safe Rust)               │
+  │ Path: src/systems/shared                                                     │
   ├──────────────────────────────────────────────────────────────────────────────┤
-  │ Enterprise Services: Node.js, TypeScript & JavaScript Microservices          │
-  │ Path: src/web                                                                │
+  │ Enterprise Services: Bare-Metal C, Assembly, & High-Throughput Rust          │
+  │ Path: src/systems/backend                                                    │
   ├──────────────────────────────────────────────────────────────────────────────┤
-  │ Automation & Tooling: Gradle Scripts, NPM CLI, CI/CD Pipeline Wrappers       │
+  │ Automation & Tooling: CMake Scripts, Cargo CLI, CI/CD Pipeline Wrappers      │
   │ Path: src/tools                                                              │
   ├──────────────────────────────────────────────────────────────────────────────┤
-  │ Managed Runtimes: JVM Execution Environment / V8 Event Loop                  │
+  │ Managed Runtimes: Bare Metal / Direct OS Syscalls / Native Threads           │
   ├──────────────────────────────────────────────────────────────────────────────┤
-  │ Target Platforms: Windows, macOS, Linux & Web Browsers                       │
+  │ Target Platforms: Windows, macOS, & Linux (x86_64 / ARM64)                   │
   └──────────────────────────────────────────────────────────────────────────────┘
