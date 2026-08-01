@@ -11,7 +11,7 @@
 
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,clion,idea,cmake,git,github,githubactions&theme=dark&perline=6" alt="Animated Tech Stack" />
+      <img src="https://skillicons.dev/icons?i=rust,c,cpp,linux,bash,clion,rustrover,cmake,git,github,githubactions&theme=dark&perline=6" alt="Animated Tech Stack" />
     </a>
   </p>
 
