@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:7C3AED&height=180&section=header&text=ShadowK101&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Principal%20Kotlin%20Multiplatform%20%26%20Web%20Engineer&descAlignY=58&descSize=17" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00D2FF,100:7C3AED&height=180&section=header&text=ShadowK101&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Principal%20Kotlin%20Multiplatform%20%2B%20Web%20Engineer&descAlignY=58&descSize=17" />
 
 <h3>Principal Multiplatform & Web Engineer at Asteria Interactive™</h3>
 
