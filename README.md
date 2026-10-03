@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:41CD52,45:00599C,100:CE422B&height=200&section=header&text=ShadowK101&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Principal%20Native%20Systems%20%26%20Desktop%20Engineer&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:41CD52,45:00599C,100:CE422B&height=200&section=header&text=ShadowK101&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Principal%20Native%20Systems%20and%20Desktop%20Engineer&descAlignY=60&descSize=18" />
 
 <h3>⚡ Principal Native Systems &amp; Desktop Engineer at Asteria Interactive™</h3>
 
