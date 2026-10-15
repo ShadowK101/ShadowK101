@@ -1,4 +1,4 @@
-::: {align="center"}
+{align="center"}
 `<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,30:172554,65:087E8B,100:6C63FF&height=250&section=header&text=SHADOWK101&fontSize=56&fontColor=F5F7FF&animation=fadeIn&fontAlignY=37&desc=WINDOWS%20ENGINEERING%20%E2%80%A2%20REAL-TIME%20GAMES%20%E2%80%A2%20DEVELOPER%20TOOLS&descAlignY=59&descSize=15" alt="ShadowK101 — Windows engineering, real-time games, and developer tools" />`{=html}
 
 `<br/>`{=html}
@@ -519,4 +519,3 @@ Tooling**
 `<br/>`{=html}
 
 `<a href="#-engineering-profile">`{=html}Back to top ↑`</a>`{=html}
-:::
