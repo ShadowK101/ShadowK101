@@ -1,4 +1,4 @@
-{align="center"}
+ {align="center"}
 `<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,30:172554,65:087E8B,100:6C63FF&height=250&section=header&text=SHADOWK101&fontSize=56&fontColor=F5F7FF&animation=fadeIn&fontAlignY=37&desc=WINDOWS%20ENGINEERING%20%E2%80%A2%20REAL-TIME%20GAMES%20%E2%80%A2%20DEVELOPER%20TOOLS&descAlignY=59&descSize=15" alt="ShadowK101 — Windows engineering, real-time games, and developer tools" />`{=html}
 
 `<br/>`{=html}
@@ -35,7 +35,7 @@ software that lasts.**
 `<a href="#-build-quality--delivery">`{=html}Delivery`</a>`{=html} ·
 `<a href="#-github-activity">`{=html}Activity`</a>`{=html} ·
 `<a href="#-connect">`{=html}Connect`</a>`{=html}
-:::
+
 
 ------------------------------------------------------------------------
 
@@ -64,7 +64,7 @@ My work spans several complementary areas:
 -   **Build and release workflows** that connect source code to
     artifacts that can be inspected and validated.
 
-::: {align="center"}
+ {align="center"}
   -----------------------------------------------------------------------
        **Application      **Interactive Systems**      **Engineering
        Engineering**                                   Enablement**
@@ -75,7 +75,7 @@ My work spans several complementary areas:
    WinUI 3 · Avalonia ·   Stride · C# · SDSL/HLSL MSBuild · PowerShell ·
            .NET                                           GitHub
   -----------------------------------------------------------------------
-:::
+
 
 > **My approach:** keep architecture understandable, make behavior
 > testable, measure before optimizing, and treat delivery quality as
@@ -168,7 +168,7 @@ My work spans several complementary areas:
 
 ## ✦ Technology Landscape
 
-::: {align="center"}
+ {align="center"}
 `<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git,githubactions,powershell,bash,windows,linux,sqlite,blender&theme=dark&perline=6" alt="C#, .NET, development environments, Git, automation, platforms, and supporting tools" />`{=html}
 
 `<br/>`{=html}`<br/>`{=html}
@@ -178,7 +178,7 @@ My work spans several complementary areas:
 `<img src="https://img.shields.io/badge/Windows-WinUI%203-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="WinUI 3" />`{=html}
 `<img src="https://img.shields.io/badge/Cross--platform-Avalonia-6C63FF?style=flat-square&logo=avalonia&logoColor=white" alt="Avalonia" />`{=html}
 `<img src="https://img.shields.io/badge/Game%20Development-Stride-087E8B?style=flat-square" alt="Stride Engine" />`{=html}
-:::
+
 
   -----------------------------------------------------------------------
   Domain                              Technologies and practices
@@ -324,10 +324,10 @@ I care about the path between a code change and a trustworthy artifact.
 The exact pipeline depends on the project, but the intended workflow is
 straightforward:
 
-::: {align="center"}
+ {align="center"}
 `CHANGE` → `RESTORE` → `BUILD` → `TEST` → `INSPECT` → `PACKAGE` →
 `VALIDATE`
-:::
+
 
 ### Engineering checklist
 
@@ -445,7 +445,7 @@ confidently.
 
 ## ✦ GitHub Activity
 
-::: {align="center"}
+ {align="center"}
 `<img src="https://github-profile-trophy.vercel.app/?username=ShadowK101&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub profile trophies" width="100%" />`{=html}
 
 `<br/>`{=html}`<br/>`{=html}
@@ -464,7 +464,7 @@ confidently.
 `<br/>`{=html}
 
 `<img src="https://komarev.com/ghpvc/?username=ShadowK101&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />`{=html}
-:::
+
 
 `<sub>`{=html}Activity cards and statistics are provided by third-party
 services. Their availability and metrics may vary with service uptime
@@ -489,7 +489,7 @@ and GitHub's public data.`</sub>`{=html}
 
 ## ✦ Connect
 
-::: {align="center"}
+ {align="center"}
 `<a href="https://github.com/ShadowK101">`{=html}
 `<img src="https://img.shields.io/badge/GitHub-ShadowK101-102A43?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />`{=html}
 `</a>`{=html} `<a href="https://github.com/Asteria-Interactive">`{=html}
@@ -519,3 +519,4 @@ Tooling**
 `<br/>`{=html}
 
 `<a href="#-engineering-profile">`{=html}Back to top ↑`</a>`{=html}
+
