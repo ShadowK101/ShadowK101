@@ -1,485 +1,522 @@
- <div align="center">
+::: {align="center"}
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,30:172554,65:087E8B,100:6C63FF&height=250&section=header&text=SHADOWK101&fontSize=56&fontColor=F5F7FF&animation=fadeIn&fontAlignY=37&desc=WINDOWS%20ENGINEERING%20%E2%80%A2%20REAL-TIME%20GAMES%20%E2%80%A2%20DEVELOPER%20TOOLS&descAlignY=59&descSize=15" alt="ShadowK101 — Windows engineering, real-time games, and developer tools" />`{=html}
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,30:512BD4,68:0078D4,100:0F9D9A&height=230&section=header&text=ShadowK101&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=PRINCIPAL%20WINDOWS%20%26%20GAME%20ENGINEER&descAlignY=57&descSize=18" alt="ShadowK101 — Principal Windows and Game Engineer" />
+`<br/>`{=html}
 
-### Principal Windows Desktop & Game Engineer at Asteria Interactive™
+### Independent Engineering · Asteria Interactive™
 
-**Designing Windows experiences. Engineering real-time worlds. Shipping reliable software.**
+**Designing Windows experiences. Engineering real-time worlds. Building
+software that lasts.**
 
-<a href="https://github.com/ShadowK101">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3200&pause=900&color=9B8CFF&center=true&vCenter=true&width=850&height=90&lines=C%23+14+%C2%B7+.NET+10+%C2%B7+Modern+Windows+Engineering;WinUI+3+%2B+Windows+App+SDK+%C2%B7+Fluent+Desktop;Stride+Engine+%C2%B7+C%23-First+Real-Time+3D;SDSL+%2F+HLSL+%C2%B7+Custom+Rendering+%26+Shaders;MSBuild+%C2%B7+NuGet+%C2%B7+Reproducible+Builds;From+Architecture+to+Signed+Release" alt="Animated engineering specialties" />
-</a>
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3200&pause=900&color=55E6C1&center=true&vCenter=true&width=880&height=76&lines=C%23+%2F+.NET+10+%C2%B7+Modern+Application+Engineering;WinUI+3+%2B+Avalonia+%C2%B7+Desktop+Experiences;Stride+Engine+%C2%B7+C%23-First+Game+Development;SDSL+%2F+HLSL+%C2%B7+Rendering+%26+Shader+Workflows;MSBuild+%C2%B7+PowerShell+%C2%B7+Repeatable+Builds;From+Architecture+to+Release+Validation" alt="Engineering focus: .NET, desktop applications, games, graphics, and delivery" />`{=html}
 
-<br/>
+`<br/>`{=html}
 
-<a href="https://github.com/ShadowK101">
-  <img src="https://img.shields.io/badge/GitHub-ShadowK101-151A2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://github.com/Asteria-Interactive">
-  <img src="https://img.shields.io/badge/Studio-Asteria%20Interactive-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Asteria Interactive" />
-</a>
-<img src="https://img.shields.io/badge/C%23-14-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# 14" />
-<img src="https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />
-<img src="https://img.shields.io/badge/Windows-WinUI%203-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="WinUI 3" />
-<img src="https://img.shields.io/badge/Game%20Engine-Stride-0F9D9A?style=for-the-badge" alt="Stride Engine" />
+`<a href="https://github.com/ShadowK101">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-ShadowK101-102A43?style=for-the-badge&logo=github&logoColor=F5F7FF" alt="GitHub profile" />`{=html}
+`</a>`{=html} `<a href="https://github.com/Asteria-Interactive">`{=html}
+`<img src="https://img.shields.io/badge/Asteria%20Interactive-Engineering-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Asteria Interactive organization" />`{=html}
+`</a>`{=html}
 
-<br/><br/>
+`<br/>`{=html}
 
-<a href="#-engineering-overview">Overview</a> ·
-<a href="#-core-engineering-domains">Engineering Domains</a> ·
-<a href="#-windows-desktop-engineering">Windows</a> ·
-<a href="#-real-time-game-engineering">Game Development</a> ·
-<a href="#-architecture--engineering-principles">Architecture</a> ·
-<a href="#-toolchain--delivery">Toolchain</a> ·
-<a href="#-github-activity">GitHub Activity</a> ·
-<a href="#-connect">Connect</a>
+`<img src="https://img.shields.io/badge/.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET 10" />`{=html}
+`<img src="https://img.shields.io/badge/C%23-Modern-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp" />`{=html}
+`<img src="https://img.shields.io/badge/Windows-WinUI%203-0078D4?style=for-the-badge&logo=windows11&logoColor=white" alt="WinUI 3" />`{=html}
+`<img src="https://img.shields.io/badge/Desktop-Avalonia-6C63FF?style=for-the-badge&logo=avalonia&logoColor=white" alt="Avalonia UI" />`{=html}
+`<img src="https://img.shields.io/badge/Game%20Engine-Stride-087E8B?style=for-the-badge&logo=gamedeveloper&logoColor=white" alt="Stride Engine" />`{=html}
 
-</div>
+`<br/>`{=html}`<br/>`{=html}
 
----
+`<a href="#-engineering-profile">`{=html}Profile`</a>`{=html} ·
+`<a href="#-engineering-focus">`{=html}Focus`</a>`{=html} ·
+`<a href="#-technology-landscape">`{=html}Technology`</a>`{=html} ·
+`<a href="#-how-i-engineer">`{=html}Principles`</a>`{=html} ·
+`<a href="#-build-quality--delivery">`{=html}Delivery`</a>`{=html} ·
+`<a href="#-github-activity">`{=html}Activity`</a>`{=html} ·
+`<a href="#-connect">`{=html}Connect`</a>`{=html}
+:::
 
-## 🧭 Engineering Overview
+------------------------------------------------------------------------
 
-I work across the full engineering lifecycle at **Asteria Interactive™**, with a focus on modern Windows desktop applications, real-time game development, graphics programming, and the infrastructure that turns source code into dependable releases.
+## ✦ Engineering Profile
 
-My active engineering stack is built around **C# 14 and .NET 10**, with two primary application surfaces:
+I work across the software lifecycle---from architecture and
+implementation to validation, packaging, and release---with a focus on
+**modern .NET applications, Windows desktop engineering, real-time game
+development, and developer tooling**.
 
-- **Windows desktop:** WinUI 3, XAML, the Windows App SDK, Fluent design, accessibility, and production packaging.
-- **Real-time games:** Stride Engine, C# gameplay systems, SDSL/HLSL shaders, rendering workflows, and asset pipelines.
+Through **Asteria Interactive™**, I bring related engineering work
+together under a common philosophy: clear project boundaries, deliberate
+technology choices, maintainable code, and workflows that make the next
+correct step obvious.
 
-Around those foundations, I build shared libraries, developer tooling, automated validation, and repeatable release workflows.
+My work spans several complementary areas:
 
+-   **Desktop applications** built with WinUI 3 or Avalonia, selected to
+    fit the target platform and user experience.
+-   **Real-time games and interactive projects** using Stride Engine, C#
+    gameplay systems, content workflows, and shader development.
+-   **Developer utilities** that make routine work more predictable,
+    diagnosable, and repeatable.
+-   **Shared .NET foundations** designed around stable contracts and
+    purposeful reuse.
+-   **Build and release workflows** that connect source code to
+    artifacts that can be inspected and validated.
+
+::: {align="center"}
+  -----------------------------------------------------------------------
+       **Application      **Interactive Systems**      **Engineering
+       Engineering**                                   Enablement**
+  ----------------------- ----------------------- -----------------------
+         Windows &         Gameplay, graphics &    Build, test & release
+  cross-platform desktop          content                 tooling
+
+   WinUI 3 · Avalonia ·   Stride · C# · SDSL/HLSL MSBuild · PowerShell ·
+           .NET                                           GitHub
+  -----------------------------------------------------------------------
+:::
+
+> **My approach:** keep architecture understandable, make behavior
+> testable, measure before optimizing, and treat delivery quality as
+> part of the product.
+
+------------------------------------------------------------------------
+
+## ✦ Engineering Focus
+
+```{=html}
 <table>
+```
+```{=html}
 <tr>
+```
+```{=html}
 <td width="50%" valign="top">
+```
+### 🪟 Windows & Desktop
 
-### 🪟 Windows Engineering
+-   WinUI 3, XAML, and Windows App SDK
+-   Avalonia UI and cross-platform desktop patterns
+-   MVVM and clear presentation boundaries
+-   Adaptive layouts, keyboard navigation, and accessibility
+-   Application settings, diagnostics, and lifecycle handling
+-   Packaging and deployment appropriate to each application
 
-- WinUI 3 and XAML
-- Windows App SDK
-- MVVM and dependency injection
-- Fluent UI, Mica and adaptive layouts
-- Accessibility and localization
-- MSIX and application distribution
-
+```{=html}
 </td>
+```
+```{=html}
 <td width="50%" valign="top">
+```
+### 🎮 Real-Time Game Development
 
-### 🎮 Game Engineering
+-   Stride Engine and Game Studio workflows
+-   C# gameplay and entity-component architecture
+-   Scenes, prefabs, materials, and asset organization
+-   SDSL/HLSL shader and rendering workflows
+-   Input, physics, animation, and game-state design
+-   Profiling and performance investigation
 
-- Stride Engine and Game Studio
-- C# gameplay architecture
-- Entity-component systems
-- SDSL and HLSL shaders
-- Asset, scene and prefab workflows
-- Rendering and performance profiling
-
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 <tr>
+```
+```{=html}
 <td width="50%" valign="top">
+```
+### 🧱 Architecture & Shared Code
 
-### 🧱 Software Architecture
+-   Reusable .NET libraries with explicit ownership
+-   Domain logic separated from UI and engine concerns
+-   Stable models, contracts, and validation rules
+-   Async APIs, cancellation, and resource lifetimes
+-   Native interoperability at deliberate boundaries
+-   Testable services and focused abstractions
 
-- UI-independent .NET libraries
-- Explicit dependency boundaries
-- Async APIs and cancellation
-- Source-generated interop
-- Testable application services
-- Maintainable data contracts
-
+```{=html}
 </td>
+```
+```{=html}
 <td width="50%" valign="top">
+```
+### ⚙️ Tooling & Delivery
 
-### ⚙️ Build & Release Engineering
+-   `dotnet` CLI and MSBuild
+-   NuGet dependency management
+-   PowerShell and developer automation
+-   Build, test, formatting, and analyzer workflows
+-   CI configuration and actionable diagnostics
+-   Release-artifact inspection and packaging validation
 
-- MSBuild and `dotnet` CLI
-- NuGet Central Package Management
-- GitHub Actions
-- Automated tests and analyzers
-- Signed application packages
-- Reproducible release workflows
-
+```{=html}
 </td>
+```
+```{=html}
 </tr>
+```
+```{=html}
 </table>
+```
 
-> **Engineering philosophy:** build the right abstraction, keep boundaries explicit, measure real performance, automate repeatable work, and treat release quality as part of the product.
+------------------------------------------------------------------------
 
----
+## ✦ Technology Landscape
 
-## 🧩 Core Engineering Domains
+::: {align="center"}
+`<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git,githubactions,powershell,bash,windows,linux,sqlite,blender&theme=dark&perline=6" alt="C#, .NET, development environments, Git, automation, platforms, and supporting tools" />`{=html}
 
-### 🔷 C# 14 & .NET 10
+`<br/>`{=html}`<br/>`{=html}
 
-Modern managed development across application logic, tooling, services, and shared libraries.
+`<img src="https://img.shields.io/badge/Runtime-.NET%2010-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" />`{=html}
+`<img src="https://img.shields.io/badge/Language-C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C Sharp" />`{=html}
+`<img src="https://img.shields.io/badge/Windows-WinUI%203-0078D4?style=flat-square&logo=windows11&logoColor=white" alt="WinUI 3" />`{=html}
+`<img src="https://img.shields.io/badge/Cross--platform-Avalonia-6C63FF?style=flat-square&logo=avalonia&logoColor=white" alt="Avalonia" />`{=html}
+`<img src="https://img.shields.io/badge/Game%20Development-Stride-087E8B?style=flat-square" alt="Stride Engine" />`{=html}
+:::
 
-- Nullable reference types and explicit API contracts.
-- Records and `required` members where they improve data modelling.
-- `async` / `await`, cancellation propagation, and asynchronous I/O.
-- `Span<T>` and `Memory<T>` when profiling demonstrates a benefit.
-- Source generation where it improves startup, maintainability, or trimming compatibility.
-- Automated tests, analyzers, and compiler diagnostics as engineering feedback.
+  -----------------------------------------------------------------------
+  Domain                              Technologies and practices
+  ----------------------------------- -----------------------------------
+  **Language & runtime**              C#, .NET 10, nullable reference
+                                      types, asynchronous programming
 
-### 🪟 WinUI 3 & Windows App SDK
+  **Windows desktop**                 WinUI 3, XAML, Windows App SDK,
+                                      Fluent design
 
-Desktop applications designed around Windows conventions, clear navigation, and maintainable presentation logic.
+  **Cross-platform desktop**          Avalonia UI, view models,
+                                      platform-specific adapters
 
-- MVVM with CommunityToolkit.Mvvm.
-- Dependency injection and application composition.
-- XAML resources, templates, and theme-aware styling.
-- Custom windowing and title-bar integration.
-- DPI-aware, adaptive layouts and keyboard navigation.
-- Accessibility, localization, and reliable application settings.
-- Packaged and unpackaged deployment strategies where appropriate.
+  **Game development**                Stride Engine, Game Studio, scenes,
+                                      entities, content pipelines
 
-### 🎮 Stride Engine
+  **Graphics**                        SDSL/HLSL, materials, shader
+                                      workflows, rendering diagnostics
 
-C#-first game development with an emphasis on clear gameplay systems, maintainable content, and measurable runtime performance.
+  **Architecture**                    MVVM, dependency injection where
+                                      useful, explicit contracts, modular
+                                      design
 
-- `SyncScript`, `AsyncScript`, and `StartupScript` for appropriate gameplay responsibilities.
-- Entity-component architecture and data-oriented processing where justified.
-- Scene and prefab composition.
-- Materials, lighting, animation, input, physics, and audio.
-- Game Studio workflows and structured content management.
-- Save systems, platform integrations, and build automation.
+  **Build & dependencies**            MSBuild, `dotnet` CLI, NuGet,
+                                      central package management where
+                                      appropriate
 
-### 🎨 Graphics, Shaders & Rendering
+  **Quality**                         Automated tests, analyzers,
+                                      formatting checks, regression
+                                      verification
 
-Rendering work that connects artistic intent with predictable runtime behaviour.
+  **Diagnostics & profiling**         Structured logs, runtime
+                                      diagnostics, frame-time and
+                                      allocation investigation
 
-- Stride Shader Language (SDSL) and HLSL.
-- Shader composition, material variants, and custom effects.
-- Post-processing and rendering extensions.
-- GPU debugging and frame-time investigation.
-- RenderDoc and PIX workflows where supported by the target graphics backend.
-- Performance budgets based on measured frame times and GPU captures.
+  **Automation**                      Git, GitHub Actions, PowerShell,
+                                      Bash
+  -----------------------------------------------------------------------
 
-### 🧱 Platform & Native Interoperability
+*Technology choices are project-dependent. A badge or listed tool
+indicates an area of focus, not a claim that every repository uses the
+entire stack.*
 
-Managed application architecture with native integration kept at explicit boundaries.
+------------------------------------------------------------------------
 
-- `LibraryImport` and source-generated P/Invoke where supported.
-- CsWin32-generated Windows bindings.
-- COM interoperability and lifetime management.
-- `SafeHandle` for owned native resources.
-- Narrow interfaces around platform-specific functionality.
-- Native code only when a concrete requirement justifies it.
+## ✦ How I Engineer
 
-### 🧪 Quality & Performance
+### 01 --- Architecture with a purpose
 
-Quality is part of the development workflow, not a final cleanup step.
+I prefer designs where each component has a clear responsibility and
+dependencies point toward stable contracts. I avoid adding layers simply
+to make a project look sophisticated; abstractions should solve a real
+problem, improve testability, or support meaningful reuse.
 
-- Unit tests for domain and application logic.
-- UI automation for appropriate desktop workflows.
-- Headless testing for game logic where feasible.
-- Roslyn analyzers and formatting checks.
-- BenchmarkDotNet for repeatable microbenchmarks.
-- `dotnet-trace`, `dotnet-counters`, and PerfView for runtime investigation.
-- Frame-time, allocation, and responsiveness measurements.
+### 02 --- Frameworks at the edges
 
----
+Desktop UI frameworks and game engines are valuable tools, but they
+should not automatically own every rule in an application. Where
+practical, domain logic remains ordinary C# that can be understood and
+tested independently.
 
-## 🏗️ Architecture & Engineering Principles
+### 03 --- Quality throughout development
 
-The central architectural goal is to keep application rules independent of the UI framework and game runtime wherever practical.
+Builds, tests, diagnostics, and documentation are part of
+implementation---not chores reserved for release week. Failures should
+provide enough context to identify the problem and decide what to do
+next.
 
-```mermaid
+### 04 --- Performance backed by evidence
+
+I favor profiling real workloads over speculative optimization. CPU
+time, GPU frame time, memory allocation, responsiveness, and startup
+behavior should be measured when they matter to the product.
+
+### 05 --- Repeatable engineering
+
+A project should explain how to restore dependencies, build, test, run,
+and package it. Automation should reduce hidden machine-specific
+assumptions, while release steps should be deliberate and verifiable.
+
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}View the architectural model I aim
+for`</strong>`{=html}
+```{=html}
+</summary>
+```
+``` mermaid
 flowchart TB
-    subgraph Surfaces["Application Surfaces"]
-        WIN["WinUI 3 Desktop"]
-        GAME["Stride Game Runtime"]
-        CLI["CLI & Developer Tools"]
-        WEB["Web Services"]
+    subgraph Surfaces["Product surfaces"]
+        DESKTOP["Desktop applications"]
+        GAMES["Stride projects"]
+        CLI["CLI utilities"]
+        WEB["Web projects"]
     end
 
-    subgraph Shared["Shared .NET Components"]
-        APP["Application Services"]
-        CORE["Domain & Core Libraries"]
-        CONTRACTS["Models & Contracts"]
+    subgraph Core["Reusable foundations — when justified"]
+        APP["Application services"]
+        DOMAIN["Domain logic"]
+        CONTRACTS["Models & contracts"]
     end
 
-    subgraph Platform["Infrastructure & Platform"]
-        INTEROP["Native / OS Interop"]
-        DATA["Persistence & External Services"]
-        AUTOMATION["Build, Test & Release Automation"]
+    subgraph Delivery["Engineering enablement"]
+        BUILD["Build & validation"]
+        CI["CI workflows"]
+        RELEASE["Packaging & release checks"]
     end
 
-    WIN --> APP
-    GAME --> APP
+    DESKTOP --> APP
+    GAMES --> APP
     CLI --> APP
     WEB --> APP
-
-    APP --> CORE
+    APP --> DOMAIN
     APP --> CONTRACTS
-    CORE --> CONTRACTS
-
-    APP --> DATA
-    APP --> INTEROP
-    AUTOMATION -. validates .-> WIN
-    AUTOMATION -. validates .-> GAME
-    AUTOMATION -. validates .-> CLI
-    AUTOMATION -. validates .-> WEB
+    BUILD --> CI --> RELEASE
 
     classDef surface fill:#172554,stroke:#60A5FA,color:#F8FAFC
-    classDef shared fill:#312E81,stroke:#A78BFA,color:#F8FAFC
-    classDef infra fill:#134E4A,stroke:#2DD4BF,color:#F8FAFC
+    classDef core fill:#102A43,stroke:#55E6C1,color:#F8FAFC
+    classDef delivery fill:#312E81,stroke:#A78BFA,color:#F8FAFC
 
-    class WIN,GAME,CLI,WEB surface
-    class APP,CORE,CONTRACTS shared
-    class INTEROP,DATA,AUTOMATION infra
+    class DESKTOP,GAMES,CLI,WEB surface
+    class APP,DOMAIN,CONTRACTS core
+    class BUILD,CI,RELEASE delivery
 ```
 
-<sub>Conceptual architecture: exact project boundaries and dependency directions should be reflected in the relevant solution files.</sub>
+`<sub>`{=html}Conceptual model, not a claim that every project
+implements these exact layers. Share code when the boundary is useful;
+keep small projects simple.`</sub>`{=html}
 
-### The boundaries I aim for
-
-| Layer | Responsibility | Design goal |
-|---|---|---|
-| Presentation | Windows UI or in-game interaction | Keep rendering and interaction concerns at the edges |
-| Application | Use cases and orchestration | Coordinate work through explicit contracts |
-| Domain | Business rules and core behaviour | Avoid unnecessary framework dependencies |
-| Infrastructure | Storage, platform APIs and integrations | Isolate implementation details behind interfaces |
-| Tooling | Builds, validation and distribution | Make repeatable operations automated and observable |
-
-### Seven engineering principles
-
-1. **C# first, with the right tool for each layer.** Use SDSL/HLSL for GPU work and native interop for explicit platform requirements.
-2. **The UI is a shell, not the foundation.** Core rules should be testable without launching a window.
-3. **The engine is a runtime, not the entire architecture.** Keep reusable game rules and data models independent where that separation makes sense.
-4. **Measure before optimizing.** Profile real workloads before introducing pooling, unsafe code, or additional complexity.
-5. **Treat diagnostics as useful feedback.** Enable nullable analysis, enforce agreed quality gates, and resolve meaningful warnings.
-6. **Make builds repeatable.** Pin toolchains and dependencies where appropriate, and automate validation.
-7. **Ship deliberately.** Test release artefacts, protect signing credentials, and document distribution procedures.
-
----
-
-## 🪟 Windows Desktop Engineering
-
-My Windows desktop focus is on applications that feel native to Windows while retaining clean internal architecture.
-
-<details>
-<summary><strong>Expand the WinUI 3 engineering playbook</strong></summary>
-
-| Concern | Approach |
-|---|---|
-| Application pattern | MVVM and testable view models |
-| Composition | Dependency injection and an explicit composition root |
-| Navigation | Clear navigation contracts and predictable activation |
-| Windowing | Windows App SDK window APIs and custom title bars where needed |
-| Theming | Resource dictionaries and theme-aware brushes |
-| Layout | Adaptive visual states, DPI-aware assets, and responsive sizing |
-| Accessibility | Keyboard navigation, accessible labels, focus visibility, and assistive-technology checks |
-| Localization | Resource-based strings and localization validation |
-| Data | Explicit serialization contracts and suitable local persistence |
-| Concurrency | Async operations, cancellation, and deliberate UI-thread dispatch |
-| Packaging | MSIX or unpackaged deployment, selected for the application's distribution needs |
-| Diagnostics | Structured logging, crash investigation, profiling, and UI debugging |
-
+```{=html}
 </details>
+```
 
-### Desktop engineering priorities
+------------------------------------------------------------------------
 
-- Keep view models independent of XAML controls wherever possible.
-- Avoid blocking the UI thread with synchronous I/O or `.Result` / `.Wait()` calls.
-- Make window state, navigation, and settings predictable.
-- Design accessibility and localization into the UI rather than adding them at the end.
-- Test packaging and installation separately from the development experience.
+## ✦ Build Quality & Delivery
 
----
+I care about the path between a code change and a trustworthy artifact.
+The exact pipeline depends on the project, but the intended workflow is
+straightforward:
 
-## 🎮 Real-Time Game Engineering
+::: {align="center"}
+`CHANGE` → `RESTORE` → `BUILD` → `TEST` → `INSPECT` → `PACKAGE` →
+`VALIDATE`
+:::
 
-I use Stride Engine for C#-oriented game development, with gameplay architecture and content workflows designed to remain maintainable as projects grow.
+### Engineering checklist
 
+-   [ ] **Reproducibility:** prerequisites, SDKs, dependencies, and
+    commands are documented.
+-   [ ] **Build integrity:** the relevant project builds in its intended
+    configuration.
+-   [ ] **Verification:** tests and static checks are run where
+    supported.
+-   [ ] **Diagnostics:** failures provide actionable output rather than
+    being silently ignored.
+-   [ ] **Security:** credentials and signing secrets stay out of source
+    control.
+-   [ ] **Packaging:** release artifacts are inspected and tested on
+    appropriate targets.
+-   [ ] **Documentation:** user-visible changes and setup requirements
+    are reflected in the README.
+
+### Typical .NET verification commands
+
+These are general examples; use the solution or project path and options
+supported by the repository.
+
+``` powershell
+dotnet --info
+dotnet restore <path-to-project-or-solution>
+dotnet build <path-to-project-or-solution> --configuration Release
+dotnet test <path-to-test-project-or-solution> --configuration Release
+```
+
+I avoid treating a green build, test count, coverage percentage, or
+release badge as proof unless it is backed by the relevant project's
+actual results.
+
+------------------------------------------------------------------------
+
+## ✦ Selected Areas of Exploration
+
+```{=html}
 <details>
-<summary><strong>Expand the Stride engineering playbook</strong></summary>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}Windows application engineering`</strong>`{=html}
+```{=html}
+</summary>
+```
+Building desktop experiences around clear navigation, responsive
+layouts, predictable application state, accessibility, and maintainable
+presentation logic. I pay particular attention to UI-thread
+responsiveness, lifecycle behavior, platform integration, and deployment
+requirements.
 
-| Concern | Approach |
-|---|---|
-| Gameplay | Scripts and component-based systems suited to each responsibility |
-| Architecture | Separate game rules from engine-specific integration where practical |
-| Content | Reusable scenes, prefabs, materials, and clearly organized assets |
-| Rendering | Lighting, materials, effects, and measured rendering budgets |
-| Shaders | SDSL/HLSL workflows and controlled shader complexity |
-| Physics | Collision layers, appropriate fixed-step behaviour, and repeatable tests |
-| Input | Action-oriented controls for keyboard, mouse, and gamepad |
-| UI | In-game UI designed around the needs of the game |
-| Persistence | Versioned save formats and deliberate migration handling |
-| Performance | Frame-time profiling, allocation investigation, and GPU captures |
-| Platform services | Explicit integrations for distribution, achievements, or cloud saves when required |
-| Release | Validated builds, platform-specific packaging, and tested release artefacts |
-
+```{=html}
 </details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}Stride and real-time systems`</strong>`{=html}
+```{=html}
+</summary>
+```
+Developing game systems with clear ownership of gameplay state, engine
+integration, scene content, and performance-sensitive work. Pure
+gameplay rules are good candidates for isolated tests; rendering, input,
+asset loading, and export behavior need appropriate runtime
+verification.
 
-### Game performance priorities
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}Developer tools and automation`</strong>`{=html}
+```{=html}
+</summary>
+```
+Creating workflows that are understandable to both developers and CI:
+explicit inputs, predictable exit codes, useful diagnostics, safe
+handling of destructive operations, and commands that can be repeated
+from a clean checkout.
 
-- Establish a frame-time budget before optimizing individual systems.
-- Separate per-frame work from initialization and infrequent operations.
-- Watch allocations and garbage-collection behaviour in hot paths.
-- Profile CPU and GPU bottlenecks independently.
-- Treat asset import settings, texture sizes, shader variants, and scene complexity as performance concerns.
-- Validate release builds on the intended target hardware.
+```{=html}
+</details>
+```
+```{=html}
+<details>
+```
+```{=html}
+<summary>
+```
+`<strong>`{=html}Shared .NET foundations`</strong>`{=html}
+```{=html}
+</summary>
+```
+Keeping reusable code focused on stable behavior and contracts. Shared
+libraries should have clear consumers and ownership, avoid unnecessary
+UI or engine dependencies, and remain small enough to maintain
+confidently.
 
----
-
-## ⚙️ Toolchain & Delivery
-
-A reliable engineering workflow needs more than a successful local build. The goal is to make validation repeatable and release outputs trustworthy.
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,rider,git,githubactions,powershell,bash,windows,linux,azure,sqlite,blender&theme=dark&perline=7" alt="C#, .NET, IDEs, automation, platforms and supporting tools" />
-
-</div>
-
-### Core toolchain
-
-| Area | Technologies |
-|---|---|
-| Language & runtime | C# 14, .NET 10 |
-| Desktop | WinUI 3, XAML, Windows App SDK |
-| Games | Stride Engine, Game Studio, SDSL/HLSL |
-| Build system | MSBuild, `dotnet` CLI |
-| Dependencies | NuGet, Central Package Management, lock files where appropriate |
-| IDEs | Visual Studio, JetBrains Rider |
-| Quality | Roslyn analyzers, `.editorconfig`, xUnit / MSTest |
-| Performance | BenchmarkDotNet, `dotnet-trace`, `dotnet-counters`, PerfView |
-| Automation | GitHub Actions, PowerShell, Bash |
-| Distribution | MSIX and other project-appropriate release packaging |
-| Graphics investigation | RenderDoc and PIX, as appropriate to the target backend |
-
-### A typical delivery pipeline
-
-```mermaid
-flowchart LR
-    A["Commit or Pull Request"] --> B["Restore Dependencies"]
-    B --> C["Build"]
-    C --> D["Run Tests"]
-    D --> E["Analyze & Validate"]
-    E --> F{"Release?"}
-    F -->|No| G["CI Results & Artifacts"]
-    F -->|Yes| H["Publish"]
-    H --> I["Sign & Verify"]
-    I --> J["Checksums & SBOM"]
-    J --> K["Release Distribution"]
-
-    classDef source fill:#172554,stroke:#60A5FA,color:#F8FAFC
-    classDef validate fill:#312E81,stroke:#A78BFA,color:#F8FAFC
-    classDef release fill:#134E4A,stroke:#2DD4BF,color:#F8FAFC
-
-    class A,B source
-    class C,D,E,F,G validate
-    class H,I,J,K release
+```{=html}
+</details>
 ```
 
-### Build and validation example
+------------------------------------------------------------------------
 
-The following is a **template** for a repository whose solution and projects support these commands. Adapt paths and restore settings to the actual workspace.
+## ✦ GitHub Activity
 
-```powershell
-# Inspect installed SDKs and restore local tools
-dotnet --list-sdks
-dotnet tool restore
+::: {align="center"}
+`<img src="https://github-profile-trophy.vercel.app/?username=ShadowK101&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub profile trophies" width="100%" />`{=html}
 
-# Restore dependencies
-dotnet restore
+`<br/>`{=html}`<br/>`{=html}
 
-# Build and test the solution
-dotnet build -c Release --no-restore
-dotnet test -c Release --no-build
+`<img src="https://github-stats-extended.vercel.app/api?username=ShadowK101&rank_icon=percentile&theme=vue-dark" alt="GitHub profile statistics" height="175" />`{=html}
+`<img src="https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=8&theme=ambient_gradient&hide=html,css" alt="Most-used languages" height="175" />`{=html}
 
-# Verify formatting if the repository enforces dotnet format
-dotnet format --verify-no-changes
-```
+`<br/>`{=html}`<br/>`{=html}
 
-### Release engineering checklist
+`<img src="https://github-readme-streak-stats.demolab.com?user=ShadowK101&theme=dark&hide_border=true&background=0D1117&ring=6C63FF&fire=55E6C1&currStreakLabel=60A5FA" alt="GitHub contribution streak" />`{=html}
 
-- [ ] SDK and dependency versions are controlled.
-- [ ] Restore and build complete in a clean environment.
-- [ ] Required tests and analyzers pass.
-- [ ] Release configuration and target architecture are correct.
-- [ ] Signing credentials are protected and never committed.
-- [ ] The final package installs and launches on a clean test machine.
-- [ ] Symbols, logs, checksums, and software inventory are retained as appropriate.
+`<br/>`{=html}`<br/>`{=html}
 
----
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowK101&theme=react-dark&hide_border=true&area=true&color=6C63FF&line=60A5FA&point=55E6C1" alt="GitHub contribution activity graph" width="100%" />`{=html}
 
-## 📊 GitHub Activity
+`<br/>`{=html}
 
-<div align="center">
+`<img src="https://komarev.com/ghpvc/?username=ShadowK101&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile views" />`{=html}
+:::
 
-<a href="https://github-profile-trophy.vercel.app/?username=ShadowK101&theme=discord&no-frame=true&no-bg=true&column=6">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShadowK101&theme=discord&no-frame=true&no-bg=true&column=6&margin-w=8" alt="GitHub profile trophies" width="100%" />
-</a>
+`<sub>`{=html}Activity cards and statistics are provided by third-party
+services. Their availability and metrics may vary with service uptime
+and GitHub's public data.`</sub>`{=html}
 
-<br/><br/>
+------------------------------------------------------------------------
 
-<a href="https://github-stats-extended.vercel.app">
-  <img height="175" src="https://github-stats-extended.vercel.app/api?username=ShadowK101&rank_icon=percentile&theme=vue-dark" alt="GitHub profile statistics" />
-</a>
+## ✦ Current Engineering Priorities
 
-<a href="https://github-stats-extended.vercel.app">
-  <img height="175" src="https://github-stats-extended.vercel.app/api/top-langs?username=ShadowK101&langs_count=8&theme=ambient_gradient&hide=html,css" alt="Most-used languages" />
-</a>
+-   **Desktop craft:** useful, polished Windows and cross-platform
+    desktop experiences.
+-   **Real-time development:** maintainable Stride gameplay systems,
+    graphics workflows, and performance investigation.
+-   **Developer experience:** clear setup instructions, safer scripts,
+    and repeatable builds.
+-   **Software foundations:** reusable components with explicit
+    boundaries and focused responsibilities.
+-   **Release confidence:** practical validation of builds and packages,
+    with honest documentation of limitations.
 
-<br/><br/>
+------------------------------------------------------------------------
 
-<img src="https://github-readme-streak-stats.demolab.com?user=ShadowK101&theme=dark&hide_border=true&background=0D1117&ring=8B5CF6&fire=0F9D9A&currStreakLabel=60A5FA" alt="GitHub contribution streak" />
+## ✦ Connect
 
-<br/><br/>
+::: {align="center"}
+`<a href="https://github.com/ShadowK101">`{=html}
+`<img src="https://img.shields.io/badge/GitHub-ShadowK101-102A43?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />`{=html}
+`</a>`{=html} `<a href="https://github.com/Asteria-Interactive">`{=html}
+`<img src="https://img.shields.io/badge/Asteria%20Interactive-Organization-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Asteria Interactive" />`{=html}
+`</a>`{=html}
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShadowK101&theme=react-dark&hide_border=true&area=true&color=8B5CF6&line=60A5FA&point=0F9D9A" alt="GitHub contribution activity graph" width="100%" />
+`<br/>`{=html}`<br/>`{=html}
 
-<br/>
+`<a href="https://x.com/Shadow_K101">`{=html}
+`<img src="https://img.shields.io/badge/Follow%20on-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />`{=html}
+`</a>`{=html}
+`<a href="https://discord.com/users/11644249975077448862">`{=html}
+`<img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord contact" />`{=html}
+`</a>`{=html} `<a href="mailto:KeeganMos@outlook.com">`{=html}
+`<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email contact" />`{=html}
+`</a>`{=html}
 
-<img src="https://komarev.com/ghpvc/?username=ShadowK101&style=flat-square&color=512BD4&label=PROFILE+VIEWS" alt="Profile views" />
+`<br/>`{=html}`<br/>`{=html}
 
-</div>
+**Asteria Interactive™ · C# · .NET · Desktop · Stride Engine · Developer
+Tooling**
 
-<sub>These widgets are supplied by third-party services. Their availability and displayed metrics depend on those services and GitHub's public data.</sub>
+*Clear architecture. Thoughtful engineering. Software built to evolve.*
 
----
+`<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:6C63FF,45:087E8B,100:0B1020&height=125&section=footer" alt="Asteria-inspired gradient footer" />`{=html}
 
-## 🎯 Current Engineering Focus
+`<br/>`{=html}
 
-- **Windows desktop:** polished WinUI 3 applications with maintainable architecture and accessible interaction.
-- **Real-time games:** Stride gameplay systems, shader development, content workflows, and performance analysis.
-- **Shared foundations:** reusable .NET components with clear boundaries and focused responsibilities.
-- **Developer experience:** automated validation, reliable local builds, and predictable release workflows.
-- **Performance engineering:** use profiling and measurements to guide improvements rather than optimizing by assumption.
-
----
-
-## 📬 Connect
-
-<div align="center">
-
-<a href="https://github.com/ShadowK101">
-  <img src="https://img.shields.io/badge/GitHub-ShadowK101-151A2D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-<a href="https://github.com/Asteria-Interactive">
-  <img src="https://img.shields.io/badge/Asteria%20Interactive-Studio-512BD4?style=for-the-badge&logo=github&logoColor=white" alt="Asteria Interactive" />
-</a>
-
-<br/><br/>
-
-<a href="https://x.com/Shadow_K101">
-  <img src="https://img.shields.io/badge/Follow%20on-X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
-</a>
-<a href="https://discord.com/users/11644249975077448862">
-  <img src="https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord contact" />
-</a>
-<a href="mailto:KeeganMos@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email contact" />
-</a>
-
-<br/><br/>
-
-**Asteria Interactive™ · C# · .NET · WinUI 3 · Stride Engine**
-
-*Engineering software with intent. Building experiences with purpose.*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F9D9A,45:0078D4,100:512BD4&height=120&section=footer" alt="Asteria gradient footer" />
-
-</div>
+`<a href="#-engineering-profile">`{=html}Back to top ↑`</a>`{=html}
+:::
