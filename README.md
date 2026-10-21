@@ -71,14 +71,12 @@ VCS         Git · LFS · conventional commits
 
 ### Selected work
 
-> Replace the placeholders with your real public repos when you publish them.
-
 | Project | Stack | Notes |
 |---------|--------|--------|
 | **Asteria Interactive** (monorepo) | .NET 10 · C/C++/NASM · Rust | Engineering workspace — desktop, systems, tools |
-| *Your systems lib* | C / C++ / NASM | — |
-| *Your Rust CLI* | Rust | — |
-| *Your desktop app* | C# / WinUI or Avalonia | — |
+| *systems lib* | C / C++ / NASM | — |
+| *Rust CLI* | Rust | — |
+| *desktop app* | C# / WinUI or Avalonia | — |
 
 ---
 
@@ -95,7 +93,6 @@ VCS         Git · LFS · conventional commits
 
 <p>
   <a href="https://github.com/Shadow_K101"><img src="https://img.shields.io/badge/GitHub-Shadow__K101-102A43?style=for-the-badge&logo=github&logoColor=55E6C1" alt="GitHub" /></a>
-  <!-- Add more when you want: Discord, site, email (public only) -->
 </p>
 
 ---
