@@ -1,110 +1,138 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,35:102A43,70:087E8B,100:6C63FF&height=220&section=header&text=SHADOW_K101&fontSize=52&fontColor=F5F7FF&animation=fadeIn&fontAlignY=40&desc=Systems%20%C2%B7%20Desktop%20%C2%B7%20Rust%20%C2%B7%20.NET&descAlignY=62&descSize=18" alt="Shadow_K101" />
-
-<br/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0B1020,35:102A43,70:087E8B,100:6C63FF&height=240&section=header&text=Shadow_K101&fontSize=56&fontColor=F5F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20developer%20%E2%80%A2%20C%23%20%E2%80%A2%20Kotlin%20%E2%80%A2%20Java%20%E2%80%A2%20Godot&descAlignY=60&descSize=16" alt="Shadow_K101 — software developer" />
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=800&color=55E6C1&center=true&vCenter=true&width=820&height=50&lines=Low-level+systems+%2B+modern+tooling.;C+%2F+C%2B%2B+%2F+NASM+%7C+Rust+%7C+C%23+%2F+.NET;Desktop+apps%2C+CLIs%2C+and+reliable+builds.;Build+with+intent.+Ship+with+confidence." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=55E6C1&center=true&vCenter=true&width=900&height=54&lines=Hey%2C+I%27m+Keegan+%F0%9F%91%8B;I+build+Windows+apps%2C+CLI+tools+and+cross-platform+software.;C%23+%7C+Kotlin+%7C+Java+%7C+Godot;Aviation+and+space+nerd+%E2%9C%88%EF%B8%8F+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
-<br/>
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/C-systems-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-modern-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/NASM-Assembly-000000?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="NASM" />
-  <img src="https://img.shields.io/badge/Rust-2024-DEA584?style=for-the-badge&logo=rust&logoColor=black" alt="Rust" />
-  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/WinUI-3-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinUI" />
-</p>
+<img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="C# and .NET" />
+<img src="https://img.shields.io/badge/Kotlin-Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
+<img src="https://img.shields.io/badge/Java-21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+<img src="https://img.shields.io/badge/Godot-4%20.NET-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot 4 .NET" />
 
 </div>
 
 ---
 
-### About
+## 👋 About me
 
-I’m **Shadow_K101** — I work across the stack from bare metal up to polished desktop UIs.
+I'm a software developer based in **South Africa 🇿🇦** who likes building tools that feel solid: native Windows apps, command-line utilities, and cross-platform desktop software. I care about clear architecture, repeatable builds, and documentation that tells the truth.
 
-- **Systems:** C, modern C++, NASM — memory, performance, and clear ABI boundaries  
-- **Rust:** crates, CLIs, and tooling with strict `fmt` / `clippy` / `cargo-deny` discipline  
-- **Desktop & CLI:** C# on **.NET 10**, WinUI 3, Avalonia, and command-line utilities  
-- **Engineering:** monorepos, repeatable builds, docs that match the code  
+When I'm not coding, I'm usually reading or watching something about **aviation and space**. ✈️🚀
 
-I care about clarity over cleverness, deliberate dependencies, and software that still makes sense six months later.
-
----
-
-### Focus areas
-
-```text
-┌─────────────────┬──────────────────┬─────────────────┐
-│  Low-level      │  Application     │  Tooling        │
-│  C / C++ / ASM  │  .NET · WinUI    │  Rust · scripts │
-│  systems code   │  Avalonia · CLI  │  CI · quality   │
-└─────────────────┴──────────────────┴─────────────────┘
-```
-
-| Area | What I actually do |
-|------|--------------------|
-| **Systems** | Libraries, native tools, assembler paths, CMake / MSVC workflows |
-| **Rust** | Workspace crates, CLIs, strict lint + license policy |
-| **Desktop** | WinUI 3 and Avalonia apps, solid UX and async boundaries |
-| **CLI** | Predictable commands, stable exit codes, automation-friendly output |
-| **Quality** | Formatters, analyzers, tests, and CI that fail early with useful logs |
+- 🔭 Working in the **Asteria Interactive** engineering monorepo
+- 🌱 Currently leaning into **Kotlin Multiplatform** and **Compose Multiplatform**
+- 🎮 Using **Godot 4 (C#)** when a project needs an engine, especially for 3D rendering
+- 🛠️ Building Windows apps with **WinUI 3** and shipping them with **WiX** installers
+- 💻 Writing CLI and TUI tools in C# with **Spectre.Console**
+- 📫 Reach me through the links below
 
 ---
 
-### Stack at a glance
-
-```text
-Languages   C · C++ · NASM · Rust · C#
-Runtime     .NET 10 · native toolchains · Cargo
-UI          WinUI 3 · Avalonia
-Build       CMake · MSBuild · Cargo · dotnet CLI
-Quality     rustfmt · clippy · cargo-deny · analyzers · tests
-VCS         Git · LFS · conventional commits
-```
-
----
-
-### Selected work
-
-| Project | Stack | Notes |
-|---------|--------|--------|
-| **Asteria Interactive** (monorepo) | .NET 10 · C/C++/NASM · Rust | Engineering workspace — desktop, systems, tools |
-| *systems lib* | C / C++ / NASM | — |
-| *Rust CLI* | Rust | — |
-| *desktop app* | C# / WinUI or Avalonia | — |
-
----
-
-### How I work
-
-- **Boundaries first** — systems code stays systems; UI stays UI; shared code earns its place  
-- **Reproducible builds** — pinned toolchains, lockfiles, documented prerequisites  
-- **Measure, then optimise** — especially in hot paths and native code  
-- **Docs as product** — every active project should answer build / run / troubleshoot without guessing  
-
----
-
-### Connect
-
-<p>
-  <a href="https://github.com/Shadow_K101"><img src="https://img.shields.io/badge/GitHub-Shadow__K101-102A43?style=for-the-badge&logo=github&logoColor=55E6C1" alt="GitHub" /></a>
-</p>
-
----
+## 🧰 Tech stack
 
 <div align="center">
 
+### Languages
+
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
+
+### Frameworks and platforms
+
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+<img src="https://img.shields.io/badge/WinUI%203-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="WinUI 3" />
+<img src="https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Compose Multiplatform" />
+<img src="https://img.shields.io/badge/Godot%204-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot 4" />
+
+### Tools
+
+<img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="JetBrains Rider" />
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+
+</div>
+
+---
+
+## 🏗️ What I build
+
+| Area | What it looks like |
+|---|---|
+| 🪟 **Windows desktop** | Native **WinUI 3** apps with clean MVVM-style structure and **WiX** installers |
+| ⌨️ **CLI and TUI tools** | .NET command-line utilities with rich terminal output via **Spectre.Console** |
+| 🖥️ **Cross-platform desktop** | **Kotlin Multiplatform** + **Compose Multiplatform** apps on JDK 21 |
+| 🎮 **3D and rendering** | **Godot 4 (.NET)** projects written in C# |
+| 🌐 **Web** | Occasional web projects, each with its own documented stack |
+
+---
+
+## 🧭 How I like to work
+
+```text
+✔ One workspace, clear boundaries
+✔ Pinned toolchains and reproducible builds
+✔ Small, focused pull requests
+✔ Docs updated in the same change as the code
+✔ Secrets out of source control, always
+✔ Heavy assets in Git LFS, LF line endings by default
+```
+
+<details>
+<summary><strong>🎨 My setup</strong></summary>
+
+- **Editors:** JetBrains Rider and IntelliJ IDEA
+- **OS:** Windows
+- **Theme:** Catppuccin Mocha in the terminal and editors
+- **Font:** JetBrainsMono Nerd Font
+- **Java:** JDK 21 (LTS), pinned per project with Gradle toolchains
+
+</details>
+
+---
+
+## 📊 GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shadow_K101&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=55E6C1&icon_color=6C63FF&text_color=F5F7FF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadow_K101&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=55E6C1&text_color=F5F7FF" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shadow_K101&theme=tokyonight&hide_border=true&background=0B1020&ring=55E6C1&fire=6C63FF&currStreakLabel=F5F7FF" alt="GitHub streak" />
+
+</div>
+
+> [!NOTE]
+> The stat cards above are rendered by third-party services. If one stops loading, it is the service, not your profile. You can delete the whole **GitHub stats** section without affecting the rest.
+
+---
+
+## ✈️ Off the keyboard
+
+Big **aviation and space** enthusiast. If it flies, orbits, or launches, I probably have opinions about it.
+
+---
+
+## 🤝 Let's connect
+
+<div align="center">
+
+
+<a href="https://github.com/Shadow_K101"><img src="https://img.shields.io/badge/GitHub-Shadow__K101-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:KeeganMos@outlook.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1020,50:087E8B,100:6C63FF&height=3&section=footer" alt="" />
 
-**Shadow_K101**
-
-*Systems · Desktop · Rust · .NET*
-
-<sub>Build with intent. Ship with confidence.</sub>
+*Clear architecture. Thoughtful engineering. Software built to evolve.*
 
 </div>
