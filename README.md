@@ -52,8 +52,11 @@ When I'm not coding, I'm usually reading or watching something about **aviation 
 ### Tools
 
 <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" alt="JetBrains Rider" />
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/RubyMine-000000?style=for-the-badge&logo=rubymine&logoColor=white" alt="RubyMine" />
+<img src="https://img.shields.io/badge/Bundler-000000?style=for-the-badge&logo=ruby&logoColor=white" alt="Bundler" />
+<img src="https://img.shields.io/badge/Rake-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Rake" />
+<img src="https://img.shields.io/badge/RuboCop-000000?style=for-the-badge&logo=ruby&logoColor=white" alt="RuboCop" />
+<img src="https://img.shields.io/badge/RubyInstaller%20%2B%20DevKit-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="RubyInstaller with DevKit" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
@@ -88,11 +91,11 @@ When I'm not coding, I'm usually reading or watching something about **aviation 
 <details>
 <summary><strong>🎨 My setup</strong></summary>
 
-- **Editors:** JetBrains Rider and IntelliJ IDEA
+- **Editors:** JetBrains Rider and RubyMine
 - **OS:** Windows
 - **Theme:** Catppuccin Mocha in the terminal and editors
 - **Font:** JetBrainsMono Nerd Font
-- **Ruby:** Ruby toolchain managed per project
+- **Ruby tooling:** RubyInstaller + DevKit, Bundler, Rake and RuboCop
 
 </details>
 
